@@ -2,7 +2,7 @@
 - 👀 I’m interested in IoT Automation 
 - 🌱 I’m currently learning Netlinx Programming , Node-Red along with Muse Automator
 - 💞️ I’m having a Good knowledge of CS fundamentals , Programming languages like Python , C/C++ and JavaScript
-- 📫 How to reach me ishaan@sparkindia.com
+- 📫 How to reach me ishaan@sparkindia.com, ishaanchoudhary2007@gmail.com
 - 😄 Pronouns: He/him/Programmer
 - ⚡ Fun fact: We can discover any fact anywhere.
 
